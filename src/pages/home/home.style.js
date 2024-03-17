@@ -15,7 +15,9 @@ export const wrapperHeader = {
   display: "flex",
   "& img": {
     margin: "7px 10px 0 0",
-    width: "64px",
+    width: "50px",
+    height: "50px",
+    borderRadius: "50%",
   },
   "& p": {
     lineHeight: "1.7",
@@ -32,7 +34,6 @@ export const wrapperBody = {
   textAlign: "center",
   "& img": {
     maxWidth: "100%",
-    maxHeight: "400px",
     borderRadius: "30px",
   },
 };

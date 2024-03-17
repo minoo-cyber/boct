@@ -13,7 +13,7 @@ import MessageIcon from "@mui/icons-material/Message";
 import AttachMoneyIcon from "@mui/icons-material/AttachMoney";
 import TelegramIcon from "@mui/icons-material/Telegram";
 import PieChartIcon from "@mui/icons-material/PieChart";
-import SwitchAccountIcon from "@mui/icons-material/SwitchAccount";
+import GitHubIcon from "@mui/icons-material/GitHub";
 import { wrapperSideBar } from "./leftMenu.style";
 
 const LeftMenu = () => {
@@ -79,10 +79,10 @@ const LeftMenu = () => {
         </MenuItem>
         <MenuItem>
           <ListItemIcon>
-            <SwitchAccountIcon />
+            <GitHubIcon />
           </ListItemIcon>
           <ListItemText>
-            <NavLink to="/">Profile</NavLink>
+            <NavLink to="/">Github</NavLink>
           </ListItemText>
         </MenuItem>
       </MenuList>

@@ -15,13 +15,17 @@ const Home = () => {
         <Grid>
           <Grid sx={wrapperHeader}>
             <Typography>
-              <img src="assets/images/home/avatar1.png" alt="post" />
+              <img
+                src="https://pbs.twimg.com/profile_images/1755473628450230272/m6aK9ief_x96.jpg"
+                alt="post"
+              />
             </Typography>
             <Typography>
-              Iced <span>@IcedKnife · 2h</span>
+              Ansem <span>@blknoiz06</span>
               <br />
-              just bought the dumbest meme coin on $SOL and I’m 100% certain
-              it’s going to 100M MCAP - it’s CT
+              soylana manlets roll call
+              <br />
+              $BOCT
             </Typography>
           </Grid>
           <Grid sx={wrapperBody} py={3}>
@@ -47,12 +51,15 @@ const Home = () => {
         <Grid>
           <Grid sx={wrapperHeader}>
             <Typography>
-              <img src="assets/images/home/avatar2.png" alt="post" />
+              <img
+                src="https://pbs.twimg.com/profile_images/1758646426840584192/x0ZLPgjw_x96.jpg"
+                alt="post"
+              />
             </Typography>
             <Typography>
-              MrPunk.eth <span>@mrpunkdoteth · 2h</span>
+              icebergy <span>@icebergy_</span>
               <br />
-              $CT TO 25M SOONER THAN YOU THINK
+              $BOCT
             </Typography>
           </Grid>
           <Grid sx={wrapperBody} py={3}>
@@ -78,17 +85,21 @@ const Home = () => {
         <Grid>
           <Grid sx={wrapperHeader}>
             <Typography>
-              <img src="assets/images/home/avatar3.png" alt="post" />
+              <img
+                src="https://pbs.twimg.com/profile_images/1767768798436950016/kgnhUC70_x96.jpg"
+                alt="post"
+              />
             </Typography>
             <Typography>
-              MrPunk.eth <span>@mrpunkdoteth · 2h</span>
+              EllioTrades<span>@elliotrades</span>
               <br />
-              $CT TO 25M SOONER THAN YOU THINK
+              Imagine being sidelined during the greatest wealth transfer of all
+              time
+              <br />
+              $BOCT
             </Typography>
           </Grid>
-          <Grid sx={wrapperBody} py={3}>
-            <img src="assets/images/home/pic3.jpeg" alt="post" />
-          </Grid>
+
           <Grid sx={wrapperFooter}>
             <span>
               <em className="fa fa-comment-o"></em>587
@@ -109,47 +120,18 @@ const Home = () => {
         <Grid>
           <Grid sx={wrapperHeader}>
             <Typography>
-              <img src="assets/images/home/avatar4.png" alt="post" />
+              <img
+                src="https://pbs.twimg.com/profile_images/1606041732004593664/JxLZNWsq_x96.jpg"
+                alt="post"
+              />
             </Typography>
             <Typography>
-              MrPunk.eth <span>@mrpunkdoteth · 2h</span>
+              K A L E O<span>@CryptoKaleo</span>
               <br />
-              $CT TO 25M SOONER THAN YOU THINK
-            </Typography>
-          </Grid>
-          <Grid sx={wrapperBody} py={3}>
-            <img src="assets/images/home/pic4.jpeg" alt="post" />
-          </Grid>
-          <Grid sx={wrapperFooter}>
-            <span>
-              <em className="fa fa-comment-o"></em>587
-            </span>
-            <span>
-              <em className="fa fa-retweet"></em>743
-            </span>
-            <span>
-              <em className="fa fa-heart-o"></em>
-              3.1 k
-            </span>
-
-            <span>
-              <em className="fa fa-upload"></em>
-            </span>
-          </Grid>
-        </Grid>
-        <Grid>
-          <Grid sx={wrapperHeader}>
-            <Typography>
-              <img src="assets/images/home/avatar5.png" alt="post" />
-            </Typography>
-            <Typography>
-              MrPunk.eth <span>@mrpunkdoteth · 2h</span>
+              TWO HUNDRED UNITED STATES DOLLARS FOR ONE SOLANA
               <br />
-              $CT TO 25M SOONER THAN YOU THINK
+              $BOCT
             </Typography>
-          </Grid>
-          <Grid sx={wrapperBody} py={3}>
-            <img src="assets/images/home/pic5.png" alt="post" />
           </Grid>
           <Grid sx={wrapperFooter}>
             <span>
