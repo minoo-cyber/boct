@@ -33,14 +33,13 @@ const Home = () => {
           </Grid>
           <Grid sx={wrapperFooter}>
             <span>
-              <em className="fa fa-comment-o"></em>587
+              <em className="fa fa-comment-o"></em>126
             </span>
             <span>
               <em className="fa fa-retweet"></em>743
             </span>
             <span>
-              <em className="fa fa-heart-o"></em>
-              3.1 k
+              <em className="fa fa-heart-o"></em>2 k
             </span>
 
             <span>
@@ -70,11 +69,11 @@ const Home = () => {
               <em className="fa fa-comment-o"></em>587
             </span>
             <span>
-              <em className="fa fa-retweet"></em>743
+              <em className="fa fa-retweet"></em>1420
             </span>
             <span>
               <em className="fa fa-heart-o"></em>
-              3.1 k
+              900 k
             </span>
 
             <span>
@@ -102,14 +101,14 @@ const Home = () => {
 
           <Grid sx={wrapperFooter}>
             <span>
-              <em className="fa fa-comment-o"></em>587
+              <em className="fa fa-comment-o"></em>233
             </span>
             <span>
-              <em className="fa fa-retweet"></em>743
+              <em className="fa fa-retweet"></em>400
             </span>
             <span>
               <em className="fa fa-heart-o"></em>
-              3.1 k
+              1.4 k
             </span>
 
             <span>
@@ -135,14 +134,13 @@ const Home = () => {
           </Grid>
           <Grid sx={wrapperFooter}>
             <span>
-              <em className="fa fa-comment-o"></em>587
+              <em className="fa fa-comment-o"></em>1100
             </span>
             <span>
-              <em className="fa fa-retweet"></em>743
+              <em className="fa fa-retweet"></em>675
             </span>
             <span>
-              <em className="fa fa-heart-o"></em>
-              3.1 k
+              <em className="fa fa-heart-o"></em>5 k
             </span>
 
             <span>

@@ -15,11 +15,18 @@ import TelegramIcon from "@mui/icons-material/Telegram";
 import PieChartIcon from "@mui/icons-material/PieChart";
 import GitHubIcon from "@mui/icons-material/GitHub";
 import { wrapperSideBar } from "./leftMenu.style";
+import CloseIcon from "@mui/icons-material/Close";
 
-const LeftMenu = () => {
+const LeftMenu = (props) => {
+  const handleClose = () => {
+    props.setMobileMenu(false);
+  };
   return (
-    <Grid sx={wrapperSideBar}>
+    <Grid className={props.mobileMenu ? "mobileNav" : ""} sx={wrapperSideBar}>
       <img src="assets/images/logo.jpg" alt="logo" />
+      <button onClick={handleClose}>
+        <CloseIcon />
+      </button>
       <MenuList>
         <MenuItem>
           <ListItemIcon>

@@ -1,4 +1,8 @@
 export const wrapperSideBar = {
+  "& button": {
+    position: "absolute",
+    right: "10px",
+  },
   "& img": {
     width: "70px",
     height: "70px",

@@ -1,14 +1,10 @@
 export const wrapperPost = {
-  paddingLeft: "240px",
   "&>div": {
     padding: "25px 0",
     borderBottom: "1px solid #393737",
     "&:last-child": {
       borderBottom: "none",
     },
-  },
-  "@media (max-width:668px)": {
-    paddingLeft: "150px",
   },
 };
 export const wrapperHeader = {
