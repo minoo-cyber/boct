@@ -2,6 +2,7 @@ export const wrapperSideBar = {
   "& button": {
     position: "absolute",
     right: "10px",
+    display: "none",
   },
   "& img": {
     width: "70px",
@@ -18,5 +19,10 @@ export const wrapperSideBar = {
   },
   "& li": {
     padding: "15px 0",
+  },
+  "@media (max-width:668px)": {
+    "& button": {
+      display: "block",
+    },
   },
 };
