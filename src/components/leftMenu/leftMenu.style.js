@@ -2,6 +2,7 @@ export const wrapperSideBar = {
   "& button": {
     position: "absolute",
     right: "10px",
+    top: "10px",
     display: "none",
   },
   "& img": {
